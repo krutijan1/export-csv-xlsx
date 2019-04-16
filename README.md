@@ -3,7 +3,7 @@ Export csv import export proof of concept
 
 Configure aws credentials
 ```javascript
-    aws configure
+aws configure
 ```
 
 Run the program: 
